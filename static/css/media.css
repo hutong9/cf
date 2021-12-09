@@ -1,0 +1,50 @@
+@media (max-width:1280px) {
+  .nav li {margin-left:6px}
+  .nav li > a{font-size:15px;padding:0 10px;}
+  .home-introduction .list{padding-left:12px;padding-right:12px;}
+}
+@media (max-width:1024px) {
+  .header {height:auto;padding:12px 0;background-size: 100% 100%;z-index:905;}
+  .header + * {margin-top:53px;}
+  .logo{width: 100%;text-align: center;margin-top:0;padding-top:0;}
+  .logo img{height:30px;}
+  .nav-btn{display:block;position:absolute;top:13px;left:12px;z-index:912}
+  .nav-btn:before{content:'\e63e';font-family:iconfont;font-size:1.7rem;line-height:1;color:#fff}
+  .nav-btn.open:before{content:'\e61e';color:#555;}
+  .nav{padding:35px 12px 12px;position:fixed;top:-140vh;opacity:0;left:0;z-index:911;width:100%;height:100vh;background:#fff;transition-duration:.3s;display:block;}
+  .nav.open{top:0;opacity:1;transition-duration:.5s;box-shadow:3px 0 10px 3px rgba(0,0,0,.1)}
+  .nav ul{display:block}
+  .nav li{border-right:0;display: block;width:90%;margin:0 auto;padding:5px 0;border-bottom:solid 1px #eee}
+  .nav li > a{color:#333;font-size:15px;line-height:35px;height:36px;padding:0 10px;}
+  .nav li.active,
+  .nav li:hover{background: #fff}
+  .nav li.active a{color:#cc0001}
+  .nav li.son:after {content:'\e618';font-family: iconfont;position:absolute;right:12px;top:14px;}
+  .nav li .extend{display:block;position: relative;top:auto;left:auto;padding:0;overflow: hidden;max-height:0;transition:.5s}
+  .nav .extend.e1 ,
+  .nav .extend.e2 {width:100%;left:auto;}
+  .nav .extend dl {border-radius:0}
+  .nav .extend dd {padding:12px 0 12px 40px;border-top:solid 1px #ddd;border-bottom:0;text-align: left;}
+  .nav .extend a {font-size:14px;}
+  .nav li.open:after {transform: rotate(90deg);transition:.5s}
+  .nav li.open .extend{max-height:400px;transition:1s}
+  .title-1 {padding:20px 0;}
+  .title-1 strong{font-size:20px}
+  .title-1 span{font-size: 16px;;}
+  .home-introduction .item h5{margin:15px 0;font-size:17px;height:45px;line-height:45px;}
+  .home-papers .inner {padding-left:12px;padding-right:12px;}
+  .home-papers article{font-size:15px}
+
+}
+
+@media (max-width:768px) {
+  .home-introduction .item{flex: 0 0 100%;}
+  .home-papers .button {margin:25px 0}
+  .home-papers .button a{flex: 0 0 150px;margin:0 20px;font-size:14px;}
+  .home-papers article{font-size:14px}
+
+}
+
+@media (max-width:414px) {
+
+}

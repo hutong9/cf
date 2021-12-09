@@ -1,0 +1,149 @@
+{
+  "id": "2237950",
+  "name": "企业通用",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11331807",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11331883",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11331875",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "11331876",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "11331877",
+      "name": "Telephone1",
+      "font_class": "Telephone",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "11331755",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11331757",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11331758",
+      "name": "向左",
+      "font_class": "xiangzuo",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11331759",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11331772",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11331773",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11331859",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "12551972",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "12552135",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "11331891",
+      "name": "WeUI-warning",
+      "font_class": "WeUI-warning",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11331893",
+      "name": "WeUI-check",
+      "font_class": "WeUI-check",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "4739903",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu-",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "11331833",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11331834",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11331884",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
